@@ -88,3 +88,5 @@ yarn build
 ### 5. Класс Popup
 Компонент для отображения модальных окон. Включает в себя методы открытия окна, закрытия, размещение контента.
 Слушает события: 'popup:open', 'popup:close', 'delivery:success', 'error:validation'
+
+https://github.com/concrete-b60/web-larek-frontend
